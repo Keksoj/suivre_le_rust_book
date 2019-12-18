@@ -1,0 +1,4 @@
+[[package]]
+name = "lifetime_in_structs"
+version = "0.1.0"
+

@@ -1,0 +1,1 @@
+Hello ! voilà le contenu du fichier, écris moi-même. Tout s'est bien passé. Supprimez mon fichier (hello.txt) pour faire afficher un message d'erreur.
